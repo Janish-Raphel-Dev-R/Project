@@ -58,6 +58,3 @@ def track_progress():
 if __name__ == '__main__':
     app.run(debug=True)
 ```
-
-## License
-Licensed under MIT. See LICENSE file for details.
